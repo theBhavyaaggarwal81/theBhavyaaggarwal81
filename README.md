@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @theBhavyaaggarwal81
 - 👀 I’m interested in Coding Java, C++, HTML..
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Android Development
+- 💞️ I’m looking to collaborate on App Dev
 - 📫 How to reach me - e-mail at aggarwalbhavya81711@gmail.com
 
 <!---
