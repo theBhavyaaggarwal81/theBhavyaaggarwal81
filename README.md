@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @theBhavyaaggarwal81
-- 👀 I’m interested in Coding Java, C++, HTML..
-- 🌱 I’m currently learning Android Development
-- 💞️ I’m looking to collaborate on App Dev
-- 📫 How to reach me - e-mail at aggarwalbhavya81711@gmail.com
+- 👀 Enthusiast Competitive Programmer
+- 🌱 I’m currently learning Deep Learning
+- 💞️ I’m looking to collaborate on any technology
+- 📫 How to reach me - aggarwalbhavya81711@gmail.com
 
 <!---
 theBhavyaaggarwal81/theBhavyaaggarwal81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
